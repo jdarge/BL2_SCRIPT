@@ -1,0 +1,4 @@
+
+class ERRNO(Exception):
+    pass
+    
